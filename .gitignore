@@ -1,0 +1,16 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+.idea
+*.iml
+target
+pom.xml.releaseBackup
+release.properties
+dependency-reduced-pom.xml
+dependency-reduced-pom.xml.bak
+.java-version
+target
