@@ -70,6 +70,9 @@ curl -v \
 ```
 
 ## TODO
+- Ability to edit plans
 - Ability to enable per tenant and if not enabled on a tenant we use the normal catalog
 - Caching on a per-client basis to improve performance
+
+
 
